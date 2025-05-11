@@ -1,0 +1,156 @@
+2025-05-06 00:41:55.4206 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:41:55.4460 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:41:55.4722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 00:41:55.4908 Info Configuration initialized.
+2025-05-06 00:49:54.4443 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:49:54.4659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:49:54.4820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 00:49:54.4947 Info Configuration initialized.
+2025-05-06 20:46:09.9133 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 20:46:09.9457 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 20:46:09.9745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 20:46:10.0009 Info Configuration initialized.
+2025-05-06 20:55:27.8726 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 20:55:27.8970 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 20:55:27.9243 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 20:55:27.9483 Info Configuration initialized.
+2025-05-06 20:55:36.0899 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 20:55:36.1121 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 20:55:36.1317 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 20:55:36.1469 Info Configuration initialized.
+2025-05-06 21:13:01.1279 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 21:13:01.1467 Info LogFactory has been closed.
+2025-05-06 21:16:00.0327 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 21:16:00.0686 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 21:16:00.0993 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 21:16:00.1237 Info Configuration initialized.
+2025-05-06 21:16:09.5517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 21:16:09.5692 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 21:16:09.5916 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 21:16:09.6078 Info Configuration initialized.
+2025-05-06 22:24:29.3679 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 22:24:29.3894 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 22:24:29.4107 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 22:24:29.4294 Info Configuration initialized.
+2025-05-06 22:25:26.0193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 22:25:26.0341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 22:25:26.0493 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-06 22:25:26.0651 Info Configuration initialized.
+2025-05-06 22:58:52.1252 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 22:58:52.1438 Info LogFactory has been closed.
+2025-05-07 00:32:51.5571 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:32:51.5791 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:32:51.6019 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 00:32:51.6245 Info Configuration initialized.
+2025-05-07 00:33:11.6798 Info AppDomain Shutting down. LogFactory closing...
+2025-05-07 00:33:11.7037 Info LogFactory has been closed.
+2025-05-07 00:33:21.2520 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:33:21.2822 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:33:21.3099 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 00:33:21.3322 Info Configuration initialized.
+2025-05-07 00:51:34.4311 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:51:34.4535 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:51:34.4745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 00:51:34.4917 Info Configuration initialized.
+2025-05-07 00:58:26.0142 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:58:26.0322 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:58:26.0517 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 00:58:26.0690 Info Configuration initialized.
+2025-05-07 01:04:59.6485 Info AppDomain Shutting down. LogFactory closing...
+2025-05-07 01:04:59.6779 Info LogFactory has been closed.
+2025-05-07 01:08:49.0451 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 01:08:49.0690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 01:08:49.0954 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 01:08:49.1194 Info Configuration initialized.
+2025-05-07 01:11:48.7404 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 01:11:48.7646 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 01:11:48.7845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 01:11:48.8048 Info Configuration initialized.
+2025-05-07 15:00:15.9190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:00:15.9406 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:00:15.9677 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 15:00:15.9874 Info Configuration initialized.
+2025-05-07 15:02:19.1720 Info AppDomain Shutting down. LogFactory closing...
+2025-05-07 15:02:19.2237 Info LogFactory has been closed.
+2025-05-07 22:04:36.3204 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:04:36.3489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:04:36.3762 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 22:04:36.4019 Info Configuration initialized.
+2025-05-07 22:50:06.5361 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:50:06.5657 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:50:06.5955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 22:50:06.6226 Info Configuration initialized.
+2025-05-07 22:51:09.6161 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:51:09.6349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:51:09.6590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-07 22:51:09.6809 Info Configuration initialized.
+2025-05-08 00:35:00.1968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:35:00.2253 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:35:00.2524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 00:35:00.2702 Info Configuration initialized.
+2025-05-08 00:35:09.7141 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:35:09.7298 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:35:09.7438 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 00:35:09.7576 Info Configuration initialized.
+2025-05-08 00:39:04.2588 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:39:04.2820 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:39:04.3038 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 00:39:04.3228 Info Configuration initialized.
+2025-05-08 00:51:19.9066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:51:19.9313 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:51:19.9596 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 00:51:19.9859 Info Configuration initialized.
+2025-05-08 00:53:02.0707 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:53:02.0900 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:53:02.1047 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 00:53:02.1196 Info Configuration initialized.
+2025-05-08 00:59:50.8397 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:59:50.8607 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:59:50.8855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 00:59:50.9062 Info Configuration initialized.
+2025-05-08 01:03:37.8937 Info AppDomain Shutting down. LogFactory closing...
+2025-05-08 01:03:37.9161 Info LogFactory has been closed.
+2025-05-08 01:03:45.0065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:03:45.0275 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:03:45.0469 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:03:45.0674 Info Configuration initialized.
+2025-05-08 01:09:17.3626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:09:17.3787 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:09:17.3959 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:09:17.4091 Info Configuration initialized.
+2025-05-08 01:14:35.5581 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:14:35.5728 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:14:35.5868 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:14:35.5996 Info Configuration initialized.
+2025-05-08 01:16:25.4364 Info AppDomain Shutting down. LogFactory closing...
+2025-05-08 01:16:25.4503 Info LogFactory has been closed.
+2025-05-08 01:16:30.3719 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:16:30.3863 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:16:30.4039 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:16:30.4171 Info Configuration initialized.
+2025-05-08 01:16:38.8849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:16:38.9133 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:16:38.9427 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:16:38.9647 Info Configuration initialized.
+2025-05-08 01:21:58.2760 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:21:58.2946 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:21:58.3159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:21:58.3370 Info Configuration initialized.
+2025-05-08 01:50:21.8051 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 01:50:21.8206 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 01:50:21.8363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-08 01:50:21.8600 Info Configuration initialized.
+2025-05-09 00:41:52.9333 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 00:41:52.9789 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 00:41:53.0028 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-09 00:41:53.0188 Info Configuration initialized.
+2025-05-09 00:45:44.9580 Info AppDomain Shutting down. LogFactory closing...
+2025-05-09 00:45:44.9975 Info LogFactory has been closed.
+2025-05-09 00:45:55.5492 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 00:45:55.5675 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 00:45:55.5818 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-09 00:45:55.5939 Info Configuration initialized.
+2025-05-09 16:20:28.2122 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 16:20:28.2361 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 16:20:28.2731 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=E:\MicrosoftVisualStudioProjeler\Web_API_Egitim\bsStoreApp\WebAPI\nlog.config
+2025-05-09 16:20:28.2955 Info Configuration initialized.
